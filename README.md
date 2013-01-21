@@ -18,12 +18,12 @@ jpush_push_PHP_server
  【config.inc.php】
 
 
-  define('DB_HOST', 'localhost');
-  define('DB_USER', '××××'); //数据库用户名
-	define('DB_PWD', '××××'); //数据库密码
-	define('DB_NAME', '××××'); //数据库
-	define('DB_TAB', '××××');//数据表
-	define('DB_CODE','utf8');	
-	define('appkeys','×××××');	//appkey值 极光portal上面提供 
-	define('masterSecret', '××××××');    //API MasterSecert值 极光portal上面提供 
-	define('platform', 'android');    //推送平台
+  define('DB_HOST', 'localhost');<br>
+  define('DB_USER', '××××'); //数据库用户名<br>
+  define('DB_PWD', '××××'); //数据库密码<br>
+  define('DB_NAME', '××××'); //数据库<br>
+  define('DB_TAB', '××××');//数据表<br>
+  define('DB_CODE','utf8');<br>	
+  define('appkeys','×××××');	//appkey值 极光portal上面提供 <br>
+  define('masterSecret', '××××××');    //API MasterSecert值 极光portal上面提供 <br>
+  define('platform', 'android');    //推送平台<br>
